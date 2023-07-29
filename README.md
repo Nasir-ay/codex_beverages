@@ -1,4 +1,6 @@
-# Codex Beverages Survey Data Analysis
+# Codex Beverages Survey Data Analysis[^1]
+![display-image](06_codex_pbi/display_pic.jpg)
+
 ## Introduction
 This is an analysis report of the survey conducted on behalf of CodeX Beverage Company. This comprehensive study aimed to gain valuable insights into consumer preferences, competition analysis, brand awareness and perception, purchase behavior, and product development. I have been able to explore key trends and patterns from the survey data that will help inform strategic decisions and optimize marketing efforts.
 
@@ -19,7 +21,11 @@ The following skills were demonstrated during the course of the project:
 - Data storytelling
 - Research skills
 
-## Relevant insights
+## Visualizations
+The visualization is a 7-page report. Click the image below to view the visualizations that have been converted into a PDF format:
+[![CodeX Analysis Visualizations](06_codex_pbi/display_dashboard.png "click here to view the visualizations")](codex_pdf.pdf)
+
+## Relevant Insights
 Through a comprehensive analysis of the survey data, I have gained valuable insights into the preferences, behaviors, and perception of our respondents. The following list highlights the key findings and trends that emerged from the survey responses:
 -	70% of the respondents are youths and have demonstrated significant preference for energy drinks, indicating an excellent opportunity to connect with them.
 -	60% of the respondents are male which indicates a strong male customer base
@@ -58,6 +64,7 @@ Based on the insights that I have derived from the comprehensive analysis of the
     -  Transparency in ingredients
     -  Engagement with consumers
 
-_Disclaimer: I got the dataset and other files needed to start this project from Codebasics Resume Project Challenge._
+
+[^1]: _Disclaimer: I got the dataset and other files needed to start this project from Codebasics Resume Project Challenge._
 
 
