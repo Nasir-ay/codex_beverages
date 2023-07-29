@@ -26,7 +26,7 @@ The visualization is a 7-page report. Click the image below to view the visualiz
 
 [![CodeX Analysis Visualizations](06_codex_pbi/display_dashboard.png "click here to view the visualizations")](codex_pdf.pdf)
 
-_Interact with the dashboard by downloading the Power BI file from the repository files_
+_Interact with the dashboard by downloading the Power BI file from the files in the repository_
 
 ## Relevant Insights
 Through a comprehensive analysis of the survey data, I have gained valuable insights into the preferences, behaviors, and perception of our respondents. The following list highlights the key findings and trends that emerged from the survey responses:
