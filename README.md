@@ -24,7 +24,7 @@ The following skills were demonstrated during the course of the project:
 ## Visualizations
 The visualization is a 7-page report. Click the image below to view the visualizations that have been converted into a PDF format:
 
-[![CodeX Analysis Visualizations](06_codex_pbi/display_dashboard.png "click here to view the visualizations")](codex_pdf.pdf)
+[![CodeX Analysis Visualizations](06_codex_pbi/display_dashboard.png "click here to view the visualizations")](06_codex_pbi/codex_pdf.pdf)
 
 _Interact with the dashboard by downloading the Power BI file from the files in the repository_
 
