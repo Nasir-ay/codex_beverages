@@ -34,10 +34,10 @@ Through a comprehensive analysis of the survey data, I have gained valuable insi
 -	The noteworthy situations that prompt the consumption of energy drinks among consumers are physical activities (sports and exercise) and mental energy boost (studying/working late)
 - The youths (15-30) prefer the price range between 50 and 99 while the middle-aged adults (31-45) prefer it at 100 to 150.  It is important to strategically put an ideal price on the products.
 - 54% have not tried the brand for the following reasons:
-No interest in energy drinks
-Health concerns
-Not available locally
-Unfamiliarity with the brand
+    -    No interest in energy drinks
+    -    Health concerns
+    -    Not available locally
+    -    Unfamiliarity with the brand
 -	Consumers have health concerns and are interested in organic ingredients and reduced sugar content
 
 ## Recommendations
