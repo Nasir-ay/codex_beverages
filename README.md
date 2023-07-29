@@ -67,6 +67,7 @@ Based on the insights that I have derived from the comprehensive analysis of the
     -  Transparency in ingredients
     -  Engagement with consumers
 
+**_Thank you_**
 
 [^1]: _Disclaimer: I got the dataset and other files needed to start this project from Codebasics Resume Project Challenge._
 
